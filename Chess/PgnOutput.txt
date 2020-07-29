@@ -1,0 +1,6 @@
+[Event ""]
+[Site ""]
+[Date ""]
+[White ""]
+[Black ""]
+1. Pe4 *
